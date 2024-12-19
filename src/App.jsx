@@ -1,5 +1,5 @@
-import Header from "./components/header";
-import Todo from "./components/Todo";
+import Header from "../components/header";
+import Todo from "../components/Todo";
 import "./App.css";
 
 function App() {
